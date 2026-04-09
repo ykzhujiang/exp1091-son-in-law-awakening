@@ -22,7 +22,7 @@
       "description_match": 4,
       "quality_ok": true,
       "issues": [
-        "描述要求'无其他配饰'，但图像中角色头上佩戴了发簪。"
+        "描述要求'无其他配饰'，但图像中角色头部佩戴了发簪。"
       ],
       "retry_suggestion": null
     },
