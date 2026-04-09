@@ -1,0 +1,35 @@
+{
+  "project": "exp1091-son-in-law-awakening",
+  "created_at": "2026-04-09T02:11:36.730164+00:00",
+  "github_repo": "ykzhujiang/exp1091-son-in-law-awakening",
+  "config": {
+    "theme": "赘婿逆袭：签字那天，我的系统觉醒了。赘婿陈默在岳父寿宴上被当众要求签离婚协议，就在他拿起笔的瞬间，手机推送显示他持有的股票期权市值3.2亿，气场逆转。",
+    "genre": "drama",
+    "style": "realistic",
+    "duration": 15,
+    "characters": 4,
+    "setting": "中国·当代·二线城市·高档酒店宴会厅",
+    "ratio": "9:16",
+    "episode": "ep01",
+    "source_video": null,
+    "entry": "B"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
