@@ -32,8 +32,8 @@
       "storyboard_verdict": "PASS"
     },
     "step3": {
-      "status": "failed",
-      "started_at": "2026-04-09T03:58:10.966313+00:00"
+      "status": "in_progress",
+      "started_at": "2026-04-09T04:00:21.350941+00:00"
     },
     "step4": {
       "status": "not_started"
