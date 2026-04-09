@@ -3,18 +3,18 @@
   "created_at": "2026-04-09T02:11:36.730164+00:00",
   "github_repo": "ykzhujiang/exp1091-son-in-law-awakening",
   "config": {
-    "theme": "赘婿逆袭：签字那天，我的系统觉醒了。赘婿陈默在岳父寿宴上被当众要求签离婚协议，就在他拿起笔的瞬间，手机推送显示他持有的股票期权市值3.2亿，气场逆转。",
+    "theme": "\u8d58\u5a7f\u9006\u88ad\uff1a\u7b7e\u5b57\u90a3\u5929\uff0c\u6211\u7684\u7cfb\u7edf\u89c9\u9192\u4e86\u3002\u8d58\u5a7f\u9648\u9ed8\u5728\u5cb3\u7236\u5bff\u5bb4\u4e0a\u88ab\u5f53\u4f17\u8981\u6c42\u7b7e\u79bb\u5a5a\u534f\u8bae\uff0c\u5c31\u5728\u4ed6\u62ff\u8d77\u7b14\u7684\u77ac\u95f4\uff0c\u624b\u673a\u63a8\u9001\u663e\u793a\u4ed6\u6301\u6709\u7684\u80a1\u7968\u671f\u6743\u5e02\u503c3.2\u4ebf\uff0c\u6c14\u573a\u9006\u8f6c\u3002",
     "genre": "drama",
     "style": "realistic",
     "duration": 15,
     "characters": 4,
-    "setting": "中国·当代·二线城市·高档酒店宴会厅",
+    "setting": "\u4e2d\u56fd\u00b7\u5f53\u4ee3\u00b7\u4e8c\u7ebf\u57ce\u5e02\u00b7\u9ad8\u6863\u9152\u5e97\u5bb4\u4f1a\u5385",
     "ratio": "9:16",
     "episode": "ep01",
     "source_video": null,
     "entry": "B"
   },
-  "status": "step3_done",
+  "status": "step1.5_done",
   "steps": {
     "step1b": {
       "status": "done",
@@ -32,11 +32,7 @@
       "storyboard_verdict": "PASS"
     },
     "step3": {
-      "status": "done",
-      "started_at": "2026-04-09T04:26:36.623938+00:00",
-      "completed_at": "2026-04-09T04:29:06.578292+00:00",
-      "output": "assets/asset-map.json",
-      "asset_count": 0
+      "status": "not_started"
     },
     "step4": {
       "status": "not_started"
