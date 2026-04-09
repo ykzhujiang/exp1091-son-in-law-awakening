@@ -43,7 +43,9 @@
       "setting_match": true,
       "description_match": 5,
       "quality_ok": true,
-      "issues": [],
+      "issues": [
+        "屏风上的红色汉字结构不够准确，桌上协议书的正文存在AI生成的乱码伪影，但作为场景参考图，整体氛围和关键元素的还原度极高，这些局部瑕疵在可接受范围内且易于后期修复。"
+      ],
       "retry_suggestion": null
     }
   ],
